@@ -17,11 +17,3 @@ This app allows users to create, view, update, and delete their daily tasks.
 - Expo CLI
 - Firebase (Firestore / Realtime Database)
 
-##  Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/your-username/todo-app.git
-cd todo-app
-
