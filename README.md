@@ -3,7 +3,7 @@
 A simple mobile Todo application built using **React Native (Expo CLI)** and **Firebase**.  
 This app allows users to create, view, update, and delete their daily tasks.
 
-## 📱 Features
+##  Features
 
 - Add new todo tasks
 - View all tasks
@@ -11,13 +11,13 @@ This app allows users to create, view, update, and delete their daily tasks.
 - Delete tasks
 - Real-time data storage using Firebase
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - React Native
 - Expo CLI
 - Firebase (Firestore / Realtime Database)
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the Repository
 
